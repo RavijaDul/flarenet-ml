@@ -1,0 +1,28 @@
+{
+  "image": "T1_faulty_022.jpg",
+  "status": "Anomalies",
+  "anomalies": [
+    {
+      "label": "Point Overload",
+      "category": "point_overload",
+      "confidence": 0.8776691884102723,
+      "bbox": {
+        "x": 281,
+        "y": 267,
+        "width": 90,
+        "height": 127
+      }
+    },
+    {
+      "label": "Point Overload",
+      "category": "point_overload",
+      "confidence": 0.9155300005519882,
+      "bbox": {
+        "x": 437,
+        "y": 276,
+        "width": 139,
+        "height": 115
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "image": "T1_faulty_040.jpg",
+  "status": "Anomalies",
+  "anomalies": [
+    {
+      "label": "Wire Overload",
+      "category": "wire_overload",
+      "confidence": 1.0,
+      "bbox": {
+        "x": 20,
+        "y": 179,
+        "width": 8,
+        "height": 64
+      }
+    },
+    {
+      "label": "Point Overload",
+      "category": "point_overload",
+      "confidence": 0.8987572317603276,
+      "bbox": {
+        "x": 260,
+        "y": 278,
+        "width": 55,
+        "height": 57
+      }
+    },
+    {
+      "label": "Point Overload",
+      "category": "point_overload",
+      "confidence": 0.8724449407814269,
+      "bbox": {
+        "x": 353,
+        "y": 289,
+        "width": 174,
+        "height": 89
+      }
+    },
+    {
+      "label": "Point Overload",
+      "category": "point_overload",
+      "confidence": 0.9118937048503613,
+      "bbox": {
+        "x": 174,
+        "y": 344,
+        "width": 76,
+        "height": 45
+      }
+    }
+  ]
+}

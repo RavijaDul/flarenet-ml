@@ -1,0 +1,61 @@
+{
+  "image": "T1_faulty_003_overlay.png",
+  "status": "Anomalies",
+  "anomalies": [
+    {
+      "label": "Point Overload",
+      "category": "point_overload",
+      "confidence": 0.9346823203187821,
+      "bbox": {
+        "x": 79,
+        "y": 91,
+        "width": 223,
+        "height": 207
+      }
+    },
+    {
+      "label": "Wire Overload",
+      "category": "wire_overload",
+      "confidence": 1.0,
+      "bbox": {
+        "x": 394,
+        "y": 156,
+        "width": 25,
+        "height": 183
+      }
+    },
+    {
+      "label": "Wire Overload",
+      "category": "wire_overload",
+      "confidence": 1.0,
+      "bbox": {
+        "x": 448,
+        "y": 309,
+        "width": 13,
+        "height": 81
+      }
+    },
+    {
+      "label": "Loose Joint",
+      "category": "loose_joint",
+      "confidence": 0.866,
+      "bbox": {
+        "x": 44,
+        "y": 384,
+        "width": 532,
+        "height": 256
+      }
+    },
+    {
+      "label": "Point Overload",
+      "category": "point_overload",
+      "confidence": 0.8942269913636531,
+      "bbox": {
+        "x": 68,
+        "y": 396,
+        "width": 46,
+        "height": 46
+      }
+    }
+  ]
+}

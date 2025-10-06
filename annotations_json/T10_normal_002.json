@@ -1,0 +1,17 @@
+{
+  "image": "T10_normal_002.jpg",
+  "status": "Anomalies",
+  "anomalies": [
+    {
+      "label": "Wire Overload",
+      "category": "wire_overload",
+      "confidence": 1.0,
+      "bbox": {
+        "x": 2560,
+        "y": 32,
+        "width": 16,
+        "height": 683
+      }
+    }
+  ]
+}
